@@ -1,2 +1,2 @@
 # REST-API-assignment
-This is a Web tech assignment which demonstrates the functions of an API.
+This is a Web tech assignment which demonstrates the functions of an API. An API is a application or software which handles the sharing of data and resources as well as acts as an intermediary between the user interface (front-end) and the server (back-end). The REST API is a set of instructions or rules controlling how developers manipulate data. Some of the basic operations of a REST API include the GET, POST, PUT and DELETE.
