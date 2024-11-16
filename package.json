@@ -1,0 +1,21 @@
+{
+  "name": "rest",
+  "version": "1.0.1",
+  "description": "This is an assignment which demonstrates how a REST API functions.",
+  "main": "index.js",
+  "scripts": {
+    "test": "None"
+  },
+  "repository": {
+    "type": "git",
+    "url": "REST-API-assignment"
+  },
+  "keywords": [
+    "restApi"
+  ],
+  "author": "Alex",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.1"
+  }
+}
